@@ -8,6 +8,7 @@ st.set_page_config(
     layout="wide",
     page_icon="📊",
     initial_sidebar_state="expanded"
+    
 )
 
 st.title("📈 Kelly Criterion Strategy Simulator")
